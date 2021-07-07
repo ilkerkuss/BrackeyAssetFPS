@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI; //kullanýlacak NewAgent oluþtur.
 
 public class Zombie : MonoBehaviour
 {
